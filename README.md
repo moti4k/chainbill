@@ -22,7 +22,17 @@ Always confirm the selected network and recipient address before sending funds. 
 
 Custom integrations, branded deployments, and ongoing implementation support are available for **200 USDC per month**.
 
-To discuss a scoped engagement, [open a commercial inquiry](https://github.com/moti4k/chainbill/issues/new?title=Commercial%20inquiry&body=Public%20project%20URL%3A%0ARequested%20integration%3A%0ATarget%20network%20and%20token%3A%0AAcceptance%20criteria%3A%0A). Do not include private keys, seed phrases, credentials, personal documents, or other secrets.
+The monthly package covers one active delivery stream at a time:
+
+- a written scope and acceptance checklist before implementation starts;
+- integration or product work across the checkout, invoice, payment-verification, and reporting flow;
+- focused automated tests for payment boundaries and retry/idempotency behavior;
+- a reviewable pull request or deployment artifact plus a concise handoff note;
+- asynchronous progress and review through a public GitHub issue unless private coordination is agreed separately.
+
+The package does not include custody, private-key handling, compliance representation, paid infrastructure, third-party fees, or guaranteed transaction volume. Those boundaries are agreed before work begins.
+
+To discuss a scoped engagement, [open a commercial inquiry](https://github.com/moti4k/chainbill/issues/new?template=commercial-inquiry.yml). Do not include private keys, seed phrases, credentials, personal documents, or other secrets.
 
 ## Feedback
 
