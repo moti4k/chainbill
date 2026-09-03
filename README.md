@@ -34,6 +34,15 @@ The package does not include custody, private-key handling, compliance represent
 
 To discuss a scoped engagement, [open a commercial inquiry](https://github.com/moti4k/chainbill/issues/new?template=commercial-inquiry.yml). Do not include private keys, seed phrases, credentials, personal documents, or other secrets.
 
+### Payment rails
+
+After the scope and acceptance criteria are confirmed in writing, payment can be made directly to:
+
+- **Base USDC:** `0xdb767e3d96746dd4bf5b606e5c8f33a14fb41ed6`
+- **TRON USDT (TRC20):** `TQpDrXCvLS72AfkLEfHgbG5sX4cYAVjkfc`
+
+Confirm the exact network, official token contract, amount, and recipient before sending. These are receiving addresses only; no wallet connection, seed phrase, or private key is ever requested.
+
 ## Feedback
 
 Public bug reports and feature requests are welcome in [GitHub Issues](https://github.com/moti4k/chainbill/issues).
